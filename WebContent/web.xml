@@ -9,7 +9,7 @@
   <!-- Servlet Configuration -->
   <servlet>
   	<servlet-name>FirstServlet</servlet-name>
-  	<servlet-class>com.thahseen.javabrains.MyServlet</servlet-class>
+  	<servlet-class>org.thahseen.javabrains.SimpleServlet</servlet-class>
   </servlet>
   
   <servlet-mapping>
